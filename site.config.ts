@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '冷江昊的主页',
+  name: '家',
   domain: 'https://bubbly-enthusiasm-8d6.notion.site/b03e6edea5214b42828d6e7a0202d605',
   author: 'jianghao leng',
 
